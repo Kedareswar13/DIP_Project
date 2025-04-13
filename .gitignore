@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore data folder
+data/
+
+# Ignore visualizations
+dip_visualizations/
+
+# Ignore extracted features
+features/
+
+# Ignore saved models
+models/
